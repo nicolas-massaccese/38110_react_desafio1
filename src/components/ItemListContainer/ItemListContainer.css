@@ -1,0 +1,14 @@
+main{
+    height: 600px;
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./banner_comunidad.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 20px;
+
+}
